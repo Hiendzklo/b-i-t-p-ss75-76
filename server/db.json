@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 90,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.6I-_GVgRdmqs-ouAiTyTzgAAAA&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 35,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.UTAaHPQiAc-CvNXrLrSnbgHaIz&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful handbag",
+      "price": 30,
+      "quantity": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.xUxSpCjwi1APJMqPLNvzXgHaHa&pid=Api&P=0&h=180"
+    }
+  ],
+  "cart": []
+}
